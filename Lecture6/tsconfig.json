@@ -40,15 +40,5 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
-  },
-
-
-
-  // "exclude":["**.dev.ts","node_modules"]  // "**/*.dev.ts"
-// "include":["df.ts"]
-  // "exclude":["interface.ts"] 
-
-
-
-
+  }
 }
